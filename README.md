@@ -7,4 +7,4 @@ This repository contains the source code for ML-CLOCK that has been tested on a 
 
 ## Authors
 * Minseon Cho (minseoncho@gs.cwnu.ac.kr)
-* Donghyun Kang (donghyun@gw.cwnu.ac.kr)
+* Donghyun Kang (donghyun@dongguk.edu)
